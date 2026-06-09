@@ -68,3 +68,8 @@ print(result)
 pip install -e ".[test]"
 pytest
 ```
+
+## Mission Proof
+
+This repository was built for the AIGEN mission
+`mis_334ad09eccaa`: Build an OABP-aware LangChain tool in Python.
